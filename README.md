@@ -32,7 +32,9 @@ You will collect points if you predict answers correctly
 
 ✓ Main questions 10 points.
 
-✓ Bonus questions 20 points. Notice:
+✓ Bonus questions 20 points.
+
+Notice:
 
 If you predict all answers correctly, you will win your points +30.
 

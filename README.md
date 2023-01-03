@@ -1,16 +1,19 @@
-# fcl
+# FCLKW
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A game that depends on your correct predictions that will gather all football fans in one league.
+All questions related to all football competitions.
+All you need is:
+✓ Register in the App ✓ Answer questions ✓ Lead the league
+✓ Win the game
+Competition Rules
+You will face number of questions weekly, there are two types of questions. ✓ Main questions
+✓ Bonus questions
+Notice:
+✓ There is a Deadline that should be checked every week.
+✓ Submit all answers before the Deadline.
+You will collect points if you predict answers correctly
+✓ Main questions 10 points.
+✓ Bonus questions 20 points. Notice:
+If you predict all answers correctly, you will win your points +30.
